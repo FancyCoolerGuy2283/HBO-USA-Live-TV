@@ -1,0 +1,18 @@
+#EXTINF:-1,HBO East
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1,HBO West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2490.m3u8
+#EXTINF:-1,HBO2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1,HBO Comedy East
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1,HBO Comedy West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/631876.m3u8
+#EXTINF:-1,HBO Signature East
+https://cdn.telecloud.tv/CH3265/index.m3u8
+#EXTINF:-1,HBO Signature West
+http://138.59.227.20:8000/play/a06h/index.m3u8
+#EXTINF:-1,HBO Latino East
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/648980.m3u8
+#EXTINF:-1,HBO Latino West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/631875.m3u8
