@@ -1,18 +1,18 @@
-#EXTINF:-1,HBO East
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png", HBO East
 http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:-1,HBO West
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png", HBO West
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2490.m3u8
-#EXTINF:-1,HBO2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:-1,HBO Comedy East
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HBO_Comedy_Logo.png", HBO Comedy East
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
-#EXTINF:-1,HBO Comedy West
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HBO_Comedy_Logo.png", HBO Comedy West
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/631876.m3u8
-#EXTINF:-1,HBO Signature East
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png", HBO Signature East
 https://cdn.telecloud.tv/CH3265/index.m3u8
-#EXTINF:-1,HBO Signature West
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png", HBO Signature West
 http://138.59.227.20:8000/play/a06h/index.m3u8
-#EXTINF:-1,HBO Latino East
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Hbo_latino.png", HBO Latino East
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/648980.m3u8
-#EXTINF:-1,HBO Latino West
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Hbo_latino.png", HBO Latino West
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/631875.m3u8
