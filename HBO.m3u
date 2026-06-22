@@ -16,7 +16,7 @@ http://138.59.227.20:8000/play/a06h/index.m3u8
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/648980.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Hbo_latino.png", HBO Latino West
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/631875.ts
-#EXTING:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png", HBO Zone East
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png", HBO Zone East
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png", HBO Zone West
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/631877.ts
